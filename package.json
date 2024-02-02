@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "diandanbao"
+  },
+  "dependencies": {
+    "buffer": "^5.0.7",
+    "escpos-printer-toolkit": "git+https://github.com/icemanbsi/escpos-printer-toolkit.git",
+    "iconv-lite": "^0.4.19",
+    "string_decoder": "^1.0.3"
+  },
+  "description": "A React Native Library to support USB/BLE/Net printer for Android platform ",
+  "keywords": [
+    "react-native",
+    "printer",
+    "bluetooth",
+    "net",
+    "printer",
+    "rn",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-printer",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.isumeng.com:xie_s/react-native-printer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
